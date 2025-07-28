@@ -8,3 +8,14 @@ header{
     font-size: 32 px;
     color:deeppink;
 }
+section {
+    background:rgb(4, 76, 94);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%; 
+}
